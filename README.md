@@ -60,7 +60,7 @@ every model, every metric, every insight should **mean something**.
 
 - 💼 **LinkedIn**
 - 🐙 **GitHub**
-- 📫 **zaghdoudi.mehdi@gmail.com**
+- 📫 **matt_zaghdoudi@outlook.com**
 
 ---
 
