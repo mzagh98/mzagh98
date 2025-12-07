@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mehdi  
+# 👋 Hi, welcome to my Github profile!  
 ### 🧠 Machine Learning Engineer · Data Scientist · Biologist
 
 I explore how **data, models, and code** can turn complexity into clarity.  
